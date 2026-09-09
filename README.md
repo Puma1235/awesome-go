@@ -442,7 +442,7 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder - generate terminal GIFs from code for documentation and tutorials.
 - [yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners.
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#contents)** 
 
 ### Standard CLI
 
